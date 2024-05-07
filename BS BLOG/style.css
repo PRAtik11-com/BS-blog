@@ -1,0 +1,48 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.search
+{
+    margin-right: 15px;
+    margin-top: 8px;
+}
+.logo
+{
+    color: #000;
+    font-weight: 500;
+    font-size: 30px;
+}
+.sub
+{
+    text-decoration: underline 2px;
+    color: maroon;
+}
+.sub:hover 
+{
+   color: green;
+}
+.scared
+{
+    background-color: gainsboro;
+}
+.thumb
+{
+    background-color: green;
+}
+.some
+{
+    height: 50%;
+}
+.red
+{
+    background-color:#55595c;
+    padding: 120px;
+}
+.the
+{
+    padding-left: 60px;
+    color: #fff;
+}
